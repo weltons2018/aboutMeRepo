@@ -1,3 +1,3 @@
 # About Me
 *fun*
-**lots of fun**
+**kinda fun**
