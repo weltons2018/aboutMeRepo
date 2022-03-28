@@ -1,0 +1,10 @@
+p, #imgId{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
